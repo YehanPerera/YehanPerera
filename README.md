@@ -8,7 +8,7 @@ Hello! I'm Yehan Perera, an undergraduate data scientist passionate about explor
 
 - *Programming Languages:* Python, Java, R
 - *Data Science:* Pandas, NumPy, Matplotlib, Seaborn
-- *Machine Learning:* Scikit-Learn, TensorFlow, Keras
+- *Machine Learning:* Scikit-Learn, TensorFlow, Keras, PyTorch
 - *Deep Learning:* Neural Networks, Convolutional Neural Networks (CNNs)
 - *Tools & Platforms:* Jupyter Notebooks, Git, GitHub
 
