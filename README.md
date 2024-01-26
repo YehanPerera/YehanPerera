@@ -15,7 +15,7 @@ Hello! I'm Yehan Perera, an undergraduate data scientist passionate about explor
 ## 📚 Education
 
 - *Data Science Undergraduate*
-  [University Of Colombo], [Colombo,Sri Lanka]
+  [University Of Colombo], [Colombo, SriLanka]
 
 ## 🌱 Currently Learning
 
